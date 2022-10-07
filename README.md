@@ -15,5 +15,5 @@ I'm a Student, who is currently studing Engineering I'm passionate about sharing
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ben-ita66&show_icons=true&include_all_commits=true&hide_border=true" alt="Benita's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ben-ita66&langs_count=8&layout=compact&hide_border=true" alt="Benita's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Amyy16&show_icons=true&include_all_commits=true&hide_border=true" alt="Precious's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amyy16&langs_count=8&layout=compact&hide_border=true" alt="Precious's GitHub stats" /> |
 | ------------- | ------------- |
