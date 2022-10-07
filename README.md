@@ -8,7 +8,7 @@ I'm a Student, who is currently studing Engineering I'm passionate about sharing
 
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I'm currently studying at ALX Software Engineering Program Class of 2022.
-- 🌱 I’m currently learning end Development.
+- 🌱 I’m currently learning Software Development.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer (Intern or Junior level).
 - 📫 You can [view my profile](www.linkedin.com/in/precious-nwabueze) and contact me by emailing nwabuezeprecious16@outlook.com
