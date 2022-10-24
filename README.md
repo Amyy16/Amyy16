@@ -7,7 +7,7 @@ I'm a Student, who is currently studing Engineering I'm passionate about sharing
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her
-- 💡 Fun fact: I'm currently studying at ALX Software Engineering Program Class of 2022.
+- 💡 Fun fact: I'm currently studying at STUTERN AND ALX Software Engineering Program Class of 2022.
 - 🌱 I’m currently learning Software Development.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer (Intern or Junior level).
